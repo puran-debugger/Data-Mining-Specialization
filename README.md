@@ -93,12 +93,92 @@
 
  ## Course 3: Text Mining and Analytics
  #### Week 1:
+* Part of speech tagging
+* Syntactic analysis
+* Semantic analysis
+* Ambiguity
+* Text representation, especially bag-of-words representation
+* Context of a word; context similarity
+* Paradigmatic relation
+* Syntagmatic relation
+
  #### Week 2:
+* Entropy
+* Conditional entropy
+* Mutual information
+* Topic and coverage of topic
+* Language model
+* Generative model
+* Unigram language model
+* Word distribution
+* Background language model
+* Parameters of a probabilistic model
+* Likelihood
+* Bayes rule
+* Maximum likelihood estimation
+* Prior and posterior distributions
+* Bayesian estimation & inference
+* Maximum a posteriori (MAP) estimate
+* Prior model
+* Posterior mode
+
  #### Week 3:
- #### Week 4:
- #### Week 5:
- #### Week 6:
+* Mixture model
+* Component model
+* Constraints on probabilities
+* Probabilistic Latent Semantic Analysis (PLSA)
+* Expectation-Maximization (EM) algorithm
+* E-step and M-step
+* Hidden variables
+* Hill climbing
+* Local maximum
+* Latent Dirichlet Allocation (LDA)
  
+ #### Week 4:
+* Clustering, document clustering, and term clustering
+* Clustering bias
+* Perspective of similarity
+* Mixture model, likelihood, and maximum likelihood estimation
+* EM algorithm, E-step, M-step, underflow, normalization (to avoid underflow)
+* Hierarchical Agglomerative Clustering, and k-Means
+* Direction evaluation (of clustering), indirect evaluation (of clustering)
+* Text categorization, topic categorization, sentiment categorization, email routing
+* Spam filtering
+* Naïve Bayes classifier
+* Smoothing
+
+ #### Week 5:
+* Generative classifier vs. discriminative classifier
+* Training data
+* Logistic regression
+* K-Nearest Neighbor classifier
+* Support Vector Machine (SVM), margin, and linear separator
+* Classification accuracy, precision, recall, F measure, macro-averaging, and micro-averaging
+* Opinion holder, opinion target, sentiment, opinion representation
+* Sentiment classification
+* Features, n-grams, frequent patterns, and overfitting
+* Ordinal logistic regression
+* Rating prediction
+
+ #### Week 6:
+* Aspect rating and aspect weight
+* Latent aspect rating analysis (LARA)
+* Latent rating regression model
+* Generative model
+* Rating prediction
+* Normal/Gaussian distribution
+* Prior vs. posterior probability
+* Text-based prediction
+* The “data mining loop”
+* Context (of text data) and contextual text mining
+* Contextual probabilistic latent semantic analysis (CPLSA): views of a topic and coverage of topics
+* Spatiotemporal trends of topics
+* Event impact analysis
+* Network-regularized topic modeling
+* NetPLSA
+* Causal topics
+* Iterative topic modeling with time series supervision
+
  ## Course 4: Pattern Discovery in Data Mining
  #### Week 1.1: Pattern Discovery Basic Concepts 
  #### Week 1.2: Efficient Pattern Mining Methods
