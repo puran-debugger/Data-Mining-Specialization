@@ -2,11 +2,102 @@
  Data mining techniques for both structured data which conform to a clearly defined schema, and unstructured data which exist in the form of natural language text. Specific course topics include pattern discovery, clustering, text retrieval, text mining and analytics, and data visualization. The Capstone project task is to solve real-world data mining challenges using a restaurant review data set from Yelp.
  
  ## Course 1: Data Mining
+ #### Week 1: The Computer and the Human
+* Introduction to visualization
+* Using computer graphics to display data
+* The model human processor and Fitts's law
+* Human visual perception and cognition
  
+ #### Week 2: Visualization of Numerical Data
+* Different kinds of visualizations and how best to apply them to data
+* Basic charts such as bar charts and scatter plots
+* More advanced visualization techniques, such as streamgraphs and parallel coordinates
+* Some elements of design and color usage
+
+ #### Week 3: Visualization of Non-Numerical Data
+* Graphs, networks, and hierarchies
+* Layout of relational and hierarchical data, such as treemaps
+* Methods for visualizing high-dimensional data, such as principal component analysis and multidimensional scaling 
+ 
+ #### Week 4: The Visualization Dashboard
+* Visualizing large datasets
+* Visualization of databases and data mining results
+* Visual analytics for decision support
+* Task analysis
+* Visualization dashboards
  
  ## Course 2: Text Retrieval and Search Engines
+ #### Week 1:
+* Part of Speech tagging, syntactic analysis, semantic analysis, and ambiguity
+* “Bag of words” representation
+* Push, pull, querying, browsing
+* Probability ranking principle
+* Relevance
+* Vector space model
+* Dot product
+* Bit vector representation
+ #### Week 2:
+* Term frequency (TF)
+* Document frequency (DF) and inverse document frequency (IDF)
+* TF transformation
+* Pivoted length normalization
+* BM25
+* Inverted index and postings
+* Binary coding, unary coding, gamma-coding, and d-gap
+* Zipf’s law
+
+ #### Week 3:
+* Cranfield evaluation methodology
+* Precision and recall
+* Average precision, mean average precision (MAP), and geometric mean average precision (gMAP)
+* Reciprocal rank and mean reciprocal rank
+* F-measure
+* Normalized Discounted Cumulative Gain (nDCG)
+* Statistical significance test 
+
+ #### Week 4:
+* p(R=1|q,d), query likelihood, and p(q|d)
+* Statistical and unigram language models
+* Maximum likelihood estimate
+* Background, collection, and document language models
+* Smoothing of unigram language models
+* Relation between query likelihood and TF-IDF weighting
+* Linear interpolation (i.e., Jelinek-Mercer) smoothing
+* Dirichlet Prior smoothing
  
+ #### Week 5:
+* Relevance feedback
+* Pseudo-relevance feedback
+* Implicit feedback
+* Rocchio feedback
+* Kullback-Leiber divergence (KL-divergence) retrieval function
+* Mixture language model
+* Scalability and efficiency
+* Spams
+* Crawler, focused crawling, and incremental crawling
+* Google File System (GFS)
+* MapReduce
+* Link analysis and anchor text
+* PageRank and HITS
+
+ #### Week 6:
+* Learning to rank, features, and logistic regression
+* Content-based filtering
+* Collaborative filtering
+* Beta-Gamma threshold learning
+* Linear utility
+* User profile
+* Exploration-exploitation tradeoff
+* Memory-based collaborative filtering
+* Cold start
+
  ## Course 3: Text Mining and Analytics
+ #### Week 1:
+ #### Week 2:
+ #### Week 3:
+ #### Week 4:
+ #### Week 5:
+ #### Week 6:
  
  ## Course 4: Pattern Discovery in Data Mining
  #### Week 1.1: Pattern Discovery Basic Concepts 
