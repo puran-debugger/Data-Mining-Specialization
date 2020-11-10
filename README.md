@@ -4,16 +4,28 @@
  ## Course 1: Data Mining
  
  
- ## Course 2: Text Retrieval and Serch Engines
+ ## Course 2: Text Retrieval and Search Engines
  
  ## Course 3: Text Mining and Analytics
  
  ## Course 4: Pattern Discovery in Data Mining
+ #### Week 1.1: Pattern Discovery Basic Concepts 
+ #### Week 1.2: Efficient Pattern Mining Methods
+ 
+ #### Week 2.1: Pattern Evaluation 
+ #### Week 2.2: Mining Diverse Frequent Patterns
+ 
+ #### Week 3.1: Sequential Pattern Mining 
+ #### Week 3.2: Pattern Mining Applications: Mining Spatiotemporal and Trajectory Patterns
+ 
+ #### Week 4.1: Pattern Mining Applications: Mining Quality Phrases from Text Data
+ #### Week 4.2: Advanced Topics on Pattern Discovery
  
  ## Course 5: Cluster Analysis in Data Mining
  #### Week 1: Cluster Analysis & Measures
  
- #### Week 2: Partitioning-Based Clustering Methods & Hierarchical Clstering Methods 
+ #### Week 2.1: Partitioning-Based Clustering Methods 
+ #### Week 2.2: Hierarchical Clustering Methods 
  
  #### Week 3: Density-Based and Grid-Based Clustering Methods 
  
